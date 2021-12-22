@@ -1,2 +1,2 @@
-# cadet243.github.io
-About me
+# About Me:
+[cadet243.github.io](cadet243.github.io)
